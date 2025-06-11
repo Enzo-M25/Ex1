@@ -1,13 +1,7 @@
-animaux package
+Aniaml
 ===============
 
-Submodules
-----------
-
-animaux.animal module
----------------------
-
-.. automodule:: animaux.animal
+.. automodule::
    :members:
    :undoc-members:
    :show-inheritance:
