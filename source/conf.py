@@ -27,6 +27,8 @@ sys.path.insert(0, os.path.abspath("../"))
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+add_module_names = False
+
 
 
 # -- Options for HTML output -------------------------------------------------
