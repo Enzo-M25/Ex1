@@ -1,7 +1,7 @@
-Aniaml
+Zoo
 ===============
 
-.. automodule::
+.. automodule:: Animal
    :members:
    :undoc-members:
    :show-inheritance:
