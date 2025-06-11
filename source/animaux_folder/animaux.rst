@@ -1,7 +1,10 @@
 Zoo
 ===============
 
-.. automodule:: Animal
+Animal
+------
+
+.. automodule:: A
    :members:
    :undoc-members:
    :show-inheritance:
@@ -22,10 +25,3 @@ animaux.oiseau module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: animaux
-   :members:
-   :undoc-members:
-   :show-inheritance:
