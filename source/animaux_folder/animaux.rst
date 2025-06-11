@@ -8,6 +8,7 @@ animaux.animal module
 ---------------------
 
 .. automodule:: animaux.animal
+   :members:
    :undoc-members:
    :show-inheritance:
 
