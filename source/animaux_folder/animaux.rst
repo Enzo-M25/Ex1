@@ -4,12 +4,12 @@ Zoo
 Animal
 ------
 
-.. automodule:: A
+.. automodule:: animaux.animal
    :members:
    :undoc-members:
    :show-inheritance:
 
-animaux.chien module
+Chien
 --------------------
 
 .. automodule:: animaux.chien
@@ -17,7 +17,7 @@ animaux.chien module
    :undoc-members:
    :show-inheritance:
 
-animaux.oiseau module
+Oiseau
 ---------------------
 
 .. automodule:: animaux.oiseau
