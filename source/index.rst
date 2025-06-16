@@ -10,5 +10,5 @@ Welcome to Animal coding test's documentation!
    :maxdepth: 2
    :caption: API
 
-   animaux_folder/animaux
+   animaux_folder
 
