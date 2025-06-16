@@ -11,5 +11,4 @@ Welcome to Animal coding test's documentation!
    :caption: API
 
    animaux_folder/animaux
-   animaux_folder/modules
 
