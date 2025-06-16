@@ -6,11 +6,11 @@
 Welcome to Animal coding test's documentation!
 ==============================================
 
-Test2
+Test3
 
 .. toctree::
    :maxdepth: 2
    :caption: API
 
-   animaux_folder
+   animaux_folder/animaux
 
