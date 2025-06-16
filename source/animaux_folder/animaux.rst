@@ -23,4 +23,5 @@ Oiseau
 .. automodule:: animaux.oiseau
    :members:
    :undoc-members:
+   :show-inheritance:
 

@@ -6,7 +6,7 @@
 Welcome to Animal coding test's documentation!
 ==============================================
 
-Test
+Test2
 
 .. toctree::
    :maxdepth: 2
