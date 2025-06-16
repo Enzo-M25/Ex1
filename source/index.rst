@@ -6,6 +6,8 @@
 Welcome to Animal coding test's documentation!
 ==============================================
 
+Test
+
 .. toctree::
    :maxdepth: 2
    :caption: API
